@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    color:#82a5ca;
+    
+    text-align:center;
+
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+
+}
+
+
+.btn{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    color:#82a5ca;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding-right:12px;
+    padding-left:12px;
+    padding-top:6px;
+    padding-bottom:6px;
+    background:white;
+    border:1px solid black;
+    border-radius:4px;
+    font-weight:bold;
+}
+.ctn{
+    text-decoration:underline;
+
+}
+#main-logo{
+    width:100px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#hero{
+    background-image:url("giphy.gif");
+    background-size:1000px;
+    padding-top:50px;
+    padding-bottom:300px;
+
+}
